@@ -122,7 +122,8 @@ plt.show()
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-<img width="702" height="510" alt="image" src="https://github.com/user-attachments/assets/56a5477c-c533-4176-89ff-bcf392267516" />
+<img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/1b21bc4d-eda5-495d-bd46-9ca1a6ee2fe8" />
+
 
 ### Original vs Noisy Vs Reconstructed Image:
 <img width="778" height="98" alt="image" src="https://github.com/user-attachments/assets/e91de73d-16f0-4d97-ba98-70bdfeada967" />
